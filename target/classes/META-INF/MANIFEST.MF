@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: dev.adrielgro.Main
+Main-Class: dev.adrielgro.Main
+
